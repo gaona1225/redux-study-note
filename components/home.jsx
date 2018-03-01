@@ -1,6 +1,7 @@
 /**
  * @file react+redux 学习 Provider-and-connect
  * @author gaona
+ * 点击第一次按钮触发GET_TIME_REQUEST，再次点击触发GET_TIME_SUCCESS，在GET_TIME_SUCCESS响应之后将按钮冻结
  * @desc https://github.com/react-guide/redux-tutorial-cn/blob/master/11_Provider-and-connect.js
  */
 
